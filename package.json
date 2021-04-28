@@ -31,7 +31,7 @@
     "assign-deep": "^1.0.1",
     "basic-auth": "^2.0.0",
     "bintrees": "1.0.1",
-    "bunyan": "1.8.1",
+    "bunyan": "1.8.15",
     "cartodb-psql": "0.14.0",
     "cartodb-query-tables": "^0.7.0",
     "cartodb-redis": "^3.0.0",
